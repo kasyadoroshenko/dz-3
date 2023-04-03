@@ -1,0 +1,11 @@
+student:
+  name: vasyl
+  surname: vasyltsiv
+  age: 20
+  subjects:
+    - math
+    - literature
+  hobbies: [ fishing, hacking ]
+  curator:
+    name: andriy
+    surname: andriiv
