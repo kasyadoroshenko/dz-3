@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <name>vasyl</name>
+    <surname>vasyltsiv</surname>
+    <age>20</age>
+    <subjects>
+        <subject>math</subject>
+        <subject>literature</subject>
+    </subjects>
+    <curator>
+        <name>andriy</name>
+        <surname>andriiv</surname>
+    </curator>
+</student>

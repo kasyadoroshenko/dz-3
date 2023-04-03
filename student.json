@@ -1,0 +1,13 @@
+{
+  "name": "vasyl",
+  "age": 20,
+  "surname": "vasylkiv",
+  "subjects": [
+    "math",
+    "literature"
+  ],
+  "curator": {
+    "name": "andriy",
+    "surname": "andriiv"
+  }
+}
